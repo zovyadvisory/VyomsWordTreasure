@@ -1,4 +1,6 @@
 streamlit
-langgraph
 requests
-pyttsx3
+beautifulsoup4
+langgraph
+langchain
+langchain-openai
